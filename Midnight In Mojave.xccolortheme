@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>SourceCodePro-Black - 12.0</string>
+	<string>SourceCodePro-Black - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>SourceCodePro-Medium - 12.0</string>
+	<string>SourceCodePro-Medium - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.255 0.714 0.27 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>SourceCodePro-Medium - 12.0</string>
+	<string>SourceCodePro-Medium - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>SourceCodePro-Black - 12.0</string>
+	<string>SourceCodePro-Black - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>SourceCodePro-Medium - 12.0</string>
+	<string>SourceCodePro-Medium - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.0784314 0.0862745 0.0823529 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -29,7 +29,7 @@
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.317647 0.356862 0.439215 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
-	<string>0.12 0.31 0.34 1</string>
+	<string>0.11.0.31 0.34 1</string>
 	<key>DVTFontAndColorVersion</key>
 	<integer>1</integer>
 	<key>DVTLineSpacing</key>
@@ -156,59 +156,59 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.character</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>SFMono-MediumItalic - 12.0</string>
+		<string>SFMono-MediumItalic - 11.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>SFMono-MediumItalic - 12.0</string>
+		<string>SFMono-MediumItalic - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SFMono-MediumItalic - 12.0</string>
+		<string>SFMono-MediumItalic - 11.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>SFMono-MediumItalic - 12.0</string>
+		<string>SFMono-MediumItalic - 11.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>SFMono-Bold - 12.0</string>
+		<string>SFMono-Bold - 11.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.number</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.string</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.url</key>
-		<string>SFMono-Medium - 12.0</string>
+		<string>SFMono-Medium - 11.0</string>
 	</dict>
 </dict>
 </plist>
